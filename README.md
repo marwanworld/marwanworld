@@ -14,7 +14,7 @@ marwan.jpeg
 
 📸 My Photo
 
-"My Photo" (PUT_IMAGE_LINK_HERE)
+"My Photo" (marwan.jpeg)
 
 ---
 
