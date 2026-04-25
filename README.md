@@ -1,7 +1,7 @@
 🌍 Marwan World
 
 👋 Welcome to my official page
-marwan.jpeg
+
 ---
 
 ⚽ About Me
@@ -14,11 +14,11 @@ marwan.jpeg
 
 📸 My Photo
 
-"My Photo" (https://github.com/marwanworld/marwanworld/blob/main/marwan.jpeg?raw=true)
+"My Photo" (PUT_IMAGE_LINK_HERE)
 
 ---
 
 🔥 Follow Me
 
-- Instagram: https://www.instagram.com/marwanworld.ai
-- Facebook: https://www.facebook.com/profile.php?id=61588308458917
+- Instagram: https://instagram.com/YOUR_USERNAME
+- Facebook: https://facebook.com/YOUR_USERNAME
